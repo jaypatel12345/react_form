@@ -1,0 +1,14 @@
+.liststyle{
+    display: flex;
+    align-items: center;
+    background-color: lightcoral;
+    height: 50px;
+
+}
+
+
+.abcd{
+display: grid;
+   width: 500px;
+}
+
