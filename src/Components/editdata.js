@@ -22,6 +22,7 @@ class Editdata extends Component {
     const data1 = this.props.location.state.index;
     const username = this.props.location.state.test6.User_name;
     console.log("username=>", username);
+    console.log('checking git')
     this.setState({
       gtstate: data1,
       edtuname: username,
